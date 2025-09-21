@@ -47,4 +47,8 @@ This project focuses on **computational modeling of quantum nanostructures**, su
 ---
 
 ## Notes
-This is a **proposed research project** aimed at demonstrating computational physics skills and contributing to renewable energy research.
+
+- This is a **proposed research project** aimed at demonstrating computational physics skills and contributing to renewable energy research.  
+
+- This research proposal is licensed under **Creative Commons Zero (CC0 1.0)** — freely available for sharing and adaptation.
+
