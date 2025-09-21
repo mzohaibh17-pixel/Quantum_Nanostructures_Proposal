@@ -1,0 +1,50 @@
+.gitignore
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LaTeX temporary files
+# =========================
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# =========================
+# Python cache and temp
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Backup and swap files
+# =========================
+*.bak
+*.swp
+*.tmp
+
+# =========================
+# Data files (optional)
+# =========================
+*.csv
+*.dat
+*.xlsx
+*.xls
+
+# =========================
+# Keep main proposal files
+# =========================
+!*.pdf
+!*.docx
+!*.tex
